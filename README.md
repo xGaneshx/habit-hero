@@ -18,13 +18,15 @@ Habit Hero is a **personal habit tracker** built with **Flask**, **SQLite**, and
 ## Screenshots
 
 **Dashboard:**  
-![Dashboard](habitheross/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard1.png)
 
 **Habits Page:**  
 ![Habits](screenshots/habits.png)
 
 **Analytics Page:**  
 ![Analytics](screenshots/analytics.png)
+![Analytics](screenshots/analytics1.png)
 
 ---
 
