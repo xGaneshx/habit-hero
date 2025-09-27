@@ -46,3 +46,34 @@ Habit Hero is a **personal habit tracker** built with **Flask**, **SQLite**, and
 
 ```bash
 pip install flask flask_sqlalchemy reportlab
+
+Run the app:
+
+python app.py
+
+Open your browser at http://127.0.0.1:3535/.
+
+habit-hero/
+│
+├─ app.py                 # Main Flask app
+├─ templates/
+│  ├─ base.html
+│  ├─ index.html
+│  ├─ habits.html
+│  └─ analytics.html
+└─ static/                # Optional: add CSS/JS assets here
+
+
+Contributing
+
+Contributions are welcome! You can:
+
+Add new features.
+
+Improve UI/UX.
+
+Optimize database queries.
+
+Report bugs via GitHub Issues.
+
+Made with ❤️ by Ganesh S
